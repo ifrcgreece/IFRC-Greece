@@ -5,3 +5,6 @@ produced from IFRC IM
 please enjoy
 <iframe width="429" height="372" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1PWZOdOJ_iMh35TcnUe6e4biNObxOMeLYIwvxRR_Npv0/pubchart?oid=1051246309&amp;format=interactive"></iframe>
 relief
+<!-- Display the map and title with HTML division tags  -->
+<div id="IFRC">EDIT your map title</div>
+<div id="map"></div>
